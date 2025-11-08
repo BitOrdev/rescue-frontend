@@ -1,0 +1,42 @@
+:root{
+    --black: black;
+    --body_black: rgb(39, 39, 39);
+    --white:  white;
+
+    --danger: #ef4444;
+    --success: #10b981;
+
+    --danger_bg:  #dc2626;
+
+    --danger_tr_bg: rgba(239, 68, 68, 0.25);
+    --success_tr_bg: rgba(16, 185, 129, 0.25);
+
+    --danger_tr_bg_2: rgba(239, 68, 68, 0.15);
+    --success_tr_bg_2: rgba(16, 185, 129, 0.15);
+
+    --nav_gradient_one: #00252d;
+    --nav_gradient_two: #28d9ff;
+
+    --nav_hover_gradient_one: #2c2c2c;
+    --nav_hover_gradient_two: #b4b4b4;
+    
+    --nav_hover_gradient_two_2: #3f3f3fb7;
+
+    --card_desc_text: #525252;
+    --card_badge_bg: #97979746;
+
+    --loader_color: #28d9ff;
+    --loader_shadow: rgb(46, 46, 46);
+
+    --banner_gradient_one: #004f94;
+    --banner_gradient_two: #946500;
+
+    --telegram_bg: linear-gradient(135deg, #0088cc, #34b7f1);
+    --discord_bg: #5865F2;
+    --twitter_bg: #1DA1F2;
+    
+}
+
+:root{
+    --body_font: sans-serif;
+}
